@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Bot token and support team chat ID
-TOKEN = '7945760551:AAFYfbUwbTFEyYLHk2lY5R9hFuknoCtX26s'
+TOKEN = '7578507822:AAFNJN9FNJG32HSKqHcdloxOQXMKJxEMYnw'
 bot = telebot.TeleBot(TOKEN)
 SUPPORT_TEAM_CHAT_ID = '5935726066'
 
